@@ -1,0 +1,6 @@
+Report :
+
+When the first round of producers have been kept to sleep by 5 seconds , the first set 
+production gets delayed by 5 seconds. By then since the stack is empty the consumers
+remain idle until atleast one producer produces. So , the result wont change much but
+the whole process gets delayed by 5 seconds.

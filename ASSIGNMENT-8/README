@@ -1,0 +1,13 @@
+                            LAB-8
+    
+This is a .cpp file.
+
+Run using the command "g++ File-Storage.cpp" and "./a.out".
+
+One main note is that please enter the string to be appended along with the command.
+Example:- "append file 'String to be entered'"
+Else it would throw an error. 
+
+Enter the commands same as given in the problem statement pdf.
+
+If any doubts regarding the inputs please have a look at that specific command in the code.
